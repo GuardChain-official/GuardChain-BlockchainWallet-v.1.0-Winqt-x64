@@ -54,11 +54,7 @@ GUAC Blockchain Properties
 - Network port			:P2P 15744
 
 -----------------------------------
-- NODE 1	:95.179.131.181
 
-- NODE 2	:209.250.245.213
-
-- NODE 3	:77.55.194.35
 
 ![GUAC](https://i.imgur.com/9AyHuVS.jpg)
 
